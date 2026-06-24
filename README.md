@@ -192,4 +192,4 @@ Pages 和 Workers 功能完全一致，按需选择即可。
 ## 致谢
 
 - [proxypin-wloc-spoofer](https://github.com/FFF686868/proxypin-wloc-spoofer) - 原始 WLOC 定位修改思路 by FFF686868
-- [NSNanoCat/Util](https://github.com/NSRingo/NanoKitFramework) - 跨平台脚本工具框架
+- [NSNanoCat/Util](https://github.com/NSNanoCat/util) - 跨平台脚本工具框架
